@@ -58,21 +58,23 @@ To generate the **professions table**, the following steps were taken:
    [Educaweb Tourism Professions](https://www.educaweb.com/profesiones/hosteleria-turismo-ocio/).
 
 2. **LinkedIn Research**:  
-   Gathered additional data by analyzing **LinkedIn profiles** of professionals in the tourism sector. This helped identify real-world roles and career progression.
+   Gathered additional data by analyzing **LinkedIn profiles** of professionals in the tourism sector.
 
 3. **Data Structuring**:  
    - Merged the scraped data and LinkedIn insights into a final list of **professions**.
    - The list includes job titles commonly found in the tourism sector.
 
 4. **Use of ChatGPT for Enrichment**:  
-   Used **ChatGPT** to add three columns to the professions table:
+   Used **ChatGPT** to add four columns to the professions table:
+   - **Seniority level**: entry/mid/senior
    - **Places**: A list of locations where these roles are typically developed (e.g., hotels, travel agencies).
    - **Skills**: A list of skills required for each role (e.g., customer service, communication).
-   - **Languages**: The number of languages typically needed for each role (e.g., Spanish, English, French).
+   - **Languages**: The number of languages typically needed for each role.
 
-5. **Table Structure**:  
+6. **Table Structure**:  
    The final professions table includes:
    - Profession Name
+   - Level
    - Companies where the role can be developed
    - Required skills
    - Languages typically needed
@@ -140,14 +142,5 @@ To reproduce this process, follow these steps:
    - Review the generated CVs to ensure they are realistic.
 
 4. **Review and Filter**:
-   - Manually review and filter the generated CVs to remove any unrealistic or biased results.
-
-5. **Adjust Demographic Distribution**:
-   - Ensure the distribution across age groups, gender, and nationality matches the real-world dataset.
-
----
-
-## Conclusion
-
-This README provides a comprehensive overview of the process followed to generate synthetic CVs for the tourism sector (and by extension, other sectors like arts & crafts and teaching). By following this process, it is possible to reproduce realistic and diverse CVs based on publicly available data and structured randomization techniques.
+   - Manually review and filter the generated CVs to remove very unrealistic results.
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the process followed to generate synthetic CVs across the **Tourism**, **Arts & Crafts**, and **Teaching** sectors. The objective was to create **100 synthetic CVs** for each sector, ensuring a **realistic distribution** based on gender, nationality, and age group. The generation of these CVs involved scraping data from relevant websites, processing the information, and applying a structured methodology to generate the content for the CVs. After generation, the CVs were manually reviewed for quality assurance.
+This document outlines the process followed to generate synthetic CVs across the **Tourism**, **Arts & Crafts**, and **Teaching** sectors. The objective was to create **100 synthetic CVs** for each sector, ensuring a **realistic distribution** based on gender, nationality, and age group. The generation of these CVs involves scraping data from relevant websites, processing the information, and applying a structured methodology to generate the content for the CVs. After generation, the CVs are manually reviewed for quality assurance.
 
 ---
 

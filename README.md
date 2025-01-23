@@ -143,4 +143,10 @@ To reproduce this process, follow these steps:
 
 4. **Review and Filter**:
    - Manually review and filter the generated CVs to remove very unrealistic results.
+---
 
+The described process was used to generate cvs of stereotypical careers in the sector, i.e., profiles that have a higher education in the sector of tourism and develop a professional career in this sector. However, we acknowledge that ther are other types of profiles in the sector. Specifically, we generated cvs for these two types: 
+- Profiles without higher education
+- Profiles of people who are currently working in the tourism sector but had an unrelated education. This includes students who work in this sector while they are completing their studies or other profiles that did not find a job in their sector of study and ended up working in tourism&hospitality.
+
+For each age group, a few cvs were generated with profiles of these two types. These cvs are manually created, getting inspiration from job portals like Linkedin or indeed and browsing for real cv examples online. 
